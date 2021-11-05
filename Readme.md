@@ -6,7 +6,7 @@ Para baixar o projeto Clone este repositório ou baixe o arquivo zip e extraia n
 
 #### Instalando as depêndencias
 
-É necessario ter Node versão 14 ou acima, pode ser instalado a partir de [Node Link](https://nodejs.org/en/?target=_blank)
+É necessario ter Node versão 14 ou acima, pode ser instalado a partir de [Node Link](https://nodejs.org/en/)
 
 após baixar, navegue até a pasta onde salvou os arquivos e execute o comando:
 
@@ -22,4 +22,4 @@ execute o comando `yarn start` ou `npm run start`
 
 #### Visualizando o Projeto
 
-Abra o navegador de sua preferência e navegue até <http://localhost:3000/?target=_blank>
+Abra o navegador de sua preferência e navegue até <http://localhost:3000/>
