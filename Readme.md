@@ -22,4 +22,4 @@ execute o comando `yarn start` ou `npm run start`
 
 #### Visualizando o Projeto
 
-Abra o navegador de sua preferência e navegue até <https://localhost:3000/>
+Abra o navegador de sua preferência e navegue até <http://localhost:3000/>
